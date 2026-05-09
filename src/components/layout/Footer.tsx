@@ -94,7 +94,7 @@ const Footer = () => {
                 <div className="p-2 bg-secondary/20 rounded-lg group-hover:bg-secondary/30 transition-colors">
                   <MapPin className="h-4 w-4 flex-shrink-0" />
                 </div>
-                <span>B Boys Hostel, IET-DAVV<br />Indore</span>
+                <span>SGSITS<br />Indore</span>
               </li>
               <li className="flex items-center gap-3 text-sm text-primary-foreground/80 hover:text-primary-foreground transition-colors group">
                 <div className="p-2 bg-secondary/20 rounded-lg group-hover:bg-secondary/30 transition-colors">

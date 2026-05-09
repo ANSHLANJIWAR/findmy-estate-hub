@@ -85,7 +85,7 @@ const Contact = () => {
                     <div>
                       <h3 className="font-semibold mb-1">Office</h3>
                       <p className="text-sm text-muted-foreground">
-                        B Boys Hostel, IET-DAVV<br />
+                        SGSITS<br />
                         Indore
                       </p>
                     </div>
